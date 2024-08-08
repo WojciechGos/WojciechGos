@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Wojciech Gos, and I am a 3rd-year student. I am passionate about developing web applications and continuously expanding my skills in this area. I gained hands-on experience as an intern at a software house, working on real-world projects.
+My name is Wojciech Gos, and I am a 3rd-year student. I am passionate about developing web applications and continuously expanding my skills in this area. I gained hands-on experience as an intern at a software house, working on real-world project. Additionally, I have participated in various competitions and hackathons, which have further honed my problem-solving abilities and teamwork skills.
 
 ## 💻 Technologies
 
